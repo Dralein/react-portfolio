@@ -1,0 +1,100 @@
+{
+  "name": "Enzo",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Enzo - curious",
+  "headerTaglineThree": "developer",
+  "headerTaglineFour": " based in Paris, France.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/Dralein"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": ""
+    },
+    { "id": "3", "title": "Email", "link": "mailto:enzo.ghaz@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Kasa",
+      "description": "Web Development",
+      "imageSrc": "https://user-images.githubusercontent.com/67756654/198901475-819084cc-e564-45b8-8d0b-5a6a20abb924.png",
+      "url": "https://github.com/Dralein/Kasa"
+    },
+    {
+      "id": "2",
+      "title": "Argent Bank",
+      "description": "Web Development",
+      "imageSrc": "https://rayan-dahmena.fr/static/media/main-background-p13.87301039cd7575d95251.png",
+      "url": "https://github.com/Dralein/ArgentBank-website"
+    },
+    {
+      "id": "3",
+      "title": "Ohmyfood",
+      "description": "Web Development",
+      "imageSrc": "https://webn.fr/img/portfolio/projet3.png",
+      "url": "https://github.com/Dralein/ohmyfood"
+    },
+    {
+      "id": "4",
+      "title": "Web Development",
+      "description": "Marketing",
+      "imageSrc": "https://user-images.githubusercontent.com/93211301/157113398-261b05fe-9007-4188-9b74-34749a895629.png",
+      "url": "https://github.com/Dralein/Portfolio-architecte-sophie-bluel"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "SEO Optimization",
+      "description": "?"
+    },
+    {
+      "id": "2",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "3",
+      "title": "Web Development",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "?",
+  "resume": {
+    "tagline": "👋  I'm a software engineer, product designer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University X",
+      "universityDate": "2016-2020",
+      "universityPara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    },
+    "languages": ["Javascript", "HTML5", "CSS"],
+    "frameworks": ["React", "Redux"],
+    "others": ["Figma", "AdobeXD", "Swagger"]
+  }
+}
