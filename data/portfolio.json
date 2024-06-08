@@ -5,19 +5,15 @@
   "headerTaglineThree": "developer",
   "headerTaglineFour": " based in Paris, France.",
   "showCursor": true,
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": true,
-  "showResume": true,
+  "showResume": false,
   "socials": [
-    {
-      "id": "1",
-      "title": "Github",
-      "link": "https://github.com/Dralein"
-    },
+    { "id": "1", "title": "Github", "link": "https://github.com/Dralein" },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": ""
+      "link": "https://www.linkedin.com/in/enzo-ghazarian-2510a1273/"
     },
     { "id": "3", "title": "Email", "link": "mailto:enzo.ghaz@gmail.com" }
   ],
@@ -55,20 +51,25 @@
     {
       "id": "1",
       "title": "SEO Optimization",
-      "description": "?"
+      "description": "Best practice in SEO and search engine optimization."
     },
     {
       "id": "2",
       "title": "Web Design",
-      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+      "description": "I know how to make web design including mockups on Figma to represent your site."
     },
     {
       "id": "3",
       "title": "Web Development",
-      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+      "description": "In technical terms, I have mastered React HTML and CSS as a front-end developer."
+    },
+    {
+      "id": "e07de6a3-7bb1-44b5-ac84-c806ac69b518",
+      "title": "Green code",
+      "description": "I strive for good practices and clean code as well as green code."
     }
   ],
-  "aboutpara": "?",
+  "aboutpara": "I'm a passionate front-end developer, specializing in React, with a strong commitment to continuous learning and improving my skills. Although I don't have any professional experience yet, I've devoted a lot of time to mastering the technologies and best practices of modern web development.\n",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
