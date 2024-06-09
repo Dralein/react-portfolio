@@ -12,6 +12,14 @@ body {
   @apply dark:bg-black dark:text-white;
 }
 
+
+@media (max-width: 1024px) {
+  .object2 {
+    object-fit: fill;
+  }
+}
+
+
 .gradient-circle {
   position: absolute;
   pointer-events: none;
